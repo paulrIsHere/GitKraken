@@ -9,6 +9,7 @@ namespace IveyUtils.Extentions
     public static partial class DateTimeExtentions
     {
 
+        /* modifications for feature #1 */
 
         public static DateTime RoundUp(this DateTime dt, TimeSpan d)
         {
